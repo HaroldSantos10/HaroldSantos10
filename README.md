@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Node JS 
 - 💬 Ask me about SCRUM 
 - 📫 How to reach me: haroldsan9.9@gmail.com 
-- 😄 Pronouns: Hi / Him 
+- 😄 Pronouns: He / Him 
 - ⚡ Fun fact: i like One Piece⚓  
 <!--
 **HaroldSantos10/HaroldSantos10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
