@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently studing Backend Principles
-- 🌱 I’m currently learning Laravel and React (intermediate level) 
+- 🌱 I’m currently learning JavaScript and Python 
 - 👯 I’m looking to collaborate on interesting projects 
-- 🤔 I’m looking for help with Node JS 
+- 🤔 I’m looking for help with Node JS and Express 
 - 💬 Ask me about SCRUM 
 - 📫 How to reach me: haroldsan9.9@gmail.com 
 - 😄 Pronouns: He / Him 
